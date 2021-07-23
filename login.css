@@ -1,0 +1,28 @@
+.login{
+    background-image: url("https://www.radzen.com/documentation/login-background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.container{
+    margin-top: 10%;
+}
+
+.container h1{
+    margin: 2% auto 5% 15rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: white;
+    height: 20rem;
+    width: 40rem;
+}
+
+.btn{
+    margin-top:1.5rem;
+    margin-left: 15rem;
+}
